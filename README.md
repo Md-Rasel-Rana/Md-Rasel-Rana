@@ -4,7 +4,7 @@ I'm a passionate Full Stack Developer with a keen interest in building robust an
 
 ## 🚀 Skills
 
-- **Frontend:** HTML, CSS, JavaScript, React.js, Vue.js
+- **Frontend:** HTML, CSS, JavaScript,Boostrap,Vue.js, React.js, 
 - **Backend:** PHP, Laravel, Wordpress
 - **Database:** MySQL 
 - **Version Control:** Git, GitHub
@@ -20,9 +20,10 @@ I'm open to collaborating on interesting projects and contributing to open-sourc
 
 ## 📫 How to Reach Me
 
-- **Email:** your.email@example.com
+- **Email:** raselges127@gmail.com
 - **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/rasel-rana-817b0624b/))
-- **Portfolio:** [Your Portfolio Website](https://yourportfolio.com)
+- **Portfolio:** [Your Portfolio Website](Under Construction)
+- **Fiverr Account LinK( )
 
 ## 😄 Pronouns
 
