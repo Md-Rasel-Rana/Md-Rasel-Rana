@@ -21,7 +21,7 @@ I'm open to collaborating on interesting projects and contributing to open-sourc
 ## 📫 How to Reach Me
 
 - **Email:** raselges127@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/rasel-rana-817b0624b/))
+- **LinkedIn:**[Your LinkedIn Profile](https://www.linkedin.com/in/rasel-rana-817b0624b/)
 - **Portfolio:** [Your Portfolio Website](Under Construction)
 - **Fiverr Account LinK( )
 
