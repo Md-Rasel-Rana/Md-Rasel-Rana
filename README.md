@@ -1,6 +1,10 @@
 # Hi there, I'm Rasel Rana 👋
 
 I'm a passionate Full Stack Developer with a keen interest in building robust and scalable web applications. My journey in the world of software development has equipped me with a diverse set of skills, allowing me to work on both the front-end and back-end of projects.
+###👉 Self-independent, reliable and friendly individual who works hard to achieve his goals.
+###👉 Adaptable quickly, and organized well. Interested in learning the latest web & software technologies quickly.
+###👉 Able to work well in teams as well as individually. My future goal is to become a senior full-stack developer.
+
 
 ## 🚀 Skills
 
