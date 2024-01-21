@@ -9,7 +9,7 @@ I'm a passionate Full Stack Developer with a keen interest in building robust an
 - **Database:** MySQL 
 - **Version Control:** Git, GitHub
 - **Deployment:** Many Project with laravel
-- **CMS: Wordpress
+- **CMS:** Wordpress
 
 ## 🌱 Currently Learning
 
