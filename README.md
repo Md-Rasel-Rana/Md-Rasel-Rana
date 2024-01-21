@@ -4,11 +4,12 @@ I'm a passionate Full Stack Developer with a keen interest in building robust an
 
 ## 🚀 Skills
 
-- **Frontend:** HTML, CSS, JavaScript,Boostrap,Vue.js, React.js, 
-- **Backend:** PHP, Laravel, Wordpress
+- **Frontend:** HTML, CSS, JavaScript,Boostrap,Vue.js, React.js,JQuery 
+- **Backend:** PHP, Laravel
 - **Database:** MySQL 
 - **Version Control:** Git, GitHub
-- **Deployment:** Many Project with laravel 
+- **Deployment:** Many Project with laravel
+- **CMS: Wordpress
 
 ## 🌱 Currently Learning
 
