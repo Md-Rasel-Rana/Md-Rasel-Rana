@@ -7,6 +7,12 @@ I'm a passionate Full Stack Developer with a keen interest in building robust an
 #### 👉 Able to work well in teams as well as individually. My future goal is to become a senior full-stack developer.
 
 
+## 🎓 Education
+ ##### - 🎓University of Rajshahi
+ ##### - 📚 Honours in Geography And Environmental Studies, 2015-2018
+ ##### - 📚 Masters in Geography And Environmental Studies, 2018-2019
+ 
+  - 
 ## 🚀 Skills
 
 - **Frontend:** HTML, CSS, JavaScript,Boostrap,Vue.js, React.js,JQuery 
