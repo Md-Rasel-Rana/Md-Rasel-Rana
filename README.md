@@ -12,7 +12,7 @@ I'm a passionate Full Stack Developer with a keen interest in building robust an
  ##### - 📚 Honours in Geography And Environmental Studies, 2015-2018
  ##### - 📚 Masters in Geography And Environmental Studies, 2018-2019
  
-  - 
+
 ## 🚀 Skills
 
 - **Frontend:** HTML, CSS, JavaScript,Boostrap,Vue.js, React.js,JQuery 
